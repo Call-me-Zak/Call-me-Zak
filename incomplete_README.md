@@ -4,8 +4,7 @@
 - #### 📫 Fast typist can help with documentation (130 WPM avg. speed) and adjusting your code.
 - #### 👀 Feel free to contact me.
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
+<!--- Note : add linkedin Link --->
 ## Skills
 
 | Skill                                         | Project                    |
@@ -33,7 +32,7 @@
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src=https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=Google-Chronicle&logoColor=white" />
-  Note to self : fix broken img.
+ <!--- Note to self : fix broken img.--->
 </div>
 
 ## Certifications
@@ -41,7 +40,7 @@
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-Note to self : add missing cert.
+<!---Note to self : add missing cert.--->
 </div>
 
 ## Projects
