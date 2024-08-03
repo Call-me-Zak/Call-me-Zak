@@ -14,8 +14,8 @@
 | Incident Response Planning and Execution      | Link will be added. |
 | Privilege & Permission management with Linux CLi                 | Link will be added. |
 | Scripting and Automation with Python | Link will be added. |
-| AI integration as means of detection | <a href="https://docs.google.com/document/d/1_SeGq-8A-kuD89Gg4MkoQM92LYP8-NEap6-J_-iLiaw/edit?usp=sharing&resourcekey=0-BkEfbiokdT0Shu-foNdOmw">Phishing detection using AI</a>|
-| AI integration as means of detection | <a href="https://docs.google.com/document/d/1p645n12KNME6emG9390fD9iNYyfde7QguAN3WlzKRTU/edit?usp=sharing">AI in Cyber Security</a> |
+| AI integration as means of detection | <a href="èè">Phishing detection using AI</a>|
+| AI integration as means of detection | <a href="hg">AI in Cyber Security</a> |
 ## Tools
 ### Network
 <div>
