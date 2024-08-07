@@ -44,7 +44,7 @@
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Call-me-Zak/Project-1/tree/main">Detection Lab</a>
 - Automation Project
 <!---
 Call-me-Zak/Call-me-Zak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
