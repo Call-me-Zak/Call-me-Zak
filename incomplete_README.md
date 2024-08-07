@@ -15,8 +15,6 @@
 | Privilege & Permission management with Linux CLi                 | Link will be added. |
 | Scripting and Automation with Python | Link will be added. |
 | AI integration as means of detection | <a href="https://github.com/Call-me-Zak/Project-1/tree/main" target="_blank">Phishing detection using AI</a>|
-<a href="https://www.example.com" target="_blank">Open in a new tab</a>
-
 | AI integration as means of detection | <a href="hg">AI in Cyber Security</a> |
 ## Tools
 ### Network
